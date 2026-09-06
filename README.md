@@ -351,8 +351,16 @@ Restaurant-Sales-PowerBI/
 
 **Tool:** Microsoft Power BI
 
+
 **Dataset:** 1,000 restaurant transactions
 
 **Focus:** Sales Analysis, Menu Performance, Operational Analysis, Customer Behavior & Data Visualization
 
 **Key Technologies:** Power Query, DAX, Data Modeling, Slicers & Interactive Visualizations
+
+## Dataset Used
+- <a href="https://github.com/anki1908/Restaurant-Dashboard-2/blob/main/restaurant.pbit"> Dataset Used </a>
+
+- <a href="https://github.com/anki1908/Restaurant-Dashboard-2/blob/main/overview.png"> Dashboard </a>
+- <a href="https://github.com/anki1908/Restaurant-Dashboard-2/blob/main/analysis1.png"> Dashboard </a>
+- <a href="https://github.com/anki1908/Restaurant-Dashboard-2/blob/main/analysis2.png"> Dashboard </a>
