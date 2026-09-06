@@ -364,3 +364,9 @@ Restaurant-Sales-PowerBI/
 - <a href="https://github.com/anki1908/Restaurant-Dashboard-2/blob/main/overview.png"> Dashboard </a>
 - <a href="https://github.com/anki1908/Restaurant-Dashboard-2/blob/main/analysis1.png"> Dashboard </a>
 - <a href="https://github.com/anki1908/Restaurant-Dashboard-2/blob/main/analysis2.png"> Dashboard </a>
+
+<img width="1432" height="798" alt="overview" src="https://github.com/user-attachments/assets/e558ca7b-d28e-4dac-9253-463e6ba27163" />
+<img width="1433" height="802" alt="analysis1" src="https://github.com/user-attachments/assets/e235fc74-b887-4f17-9e9b-616b54fed2fc" />
+<img width="1433" height="803" alt="analysis 2" src="https://github.com/user-attachments/assets/67f3591e-b94f-45bd-a612-f830bd6f4a66" />
+
+
